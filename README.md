@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/rimmi21/5-alexa-video-example-skill/master/assets/images/image.png)
+![](https://raw.githubusercontent.com/dabblelab/alexa-apl-for-video-example/main/assets/images/image.png)
 
 # APL for Video - Alexa Skill Template
 
